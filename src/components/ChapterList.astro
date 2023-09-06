@@ -1,0 +1,30 @@
+---
+interface Props {
+  title: string;
+  subTitle: string;
+  chapters: { slug: string; title: string }[];
+  baseUrl: string;
+}
+
+const { subTitle, title, chapters, baseUrl } = Astro.props;
+---
+
+<main class="flex flex-col grow">
+  <div
+    class="w-full max-w-2xl grow mx-auto shadow rounded-lg p-8 border-[#065A60] bg-[#212F45]"
+  >
+    <h1 class="text-4xl font-semibold">{title}</h1>
+    <h2 class="text-xl">{subTitle}</h2>
+    <ul class="mt-8 space-y-4">
+      {
+        chapters.map((chapter) => (
+          <a href={`${baseUrl}/${chapter.slug}`}>
+            <li class="p-2 font-semibold hover:bg-[#1B3A4B] my-2 border-b border-white">
+              {chapter.title}
+            </li>
+          </a>
+        ))
+      }
+    </ul>
+  </div>
+</main>

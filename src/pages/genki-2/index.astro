@@ -1,0 +1,20 @@
+---
+import ChapterList from "@/components/ChapterList.astro";
+import Layout from "@/layouts/Layout.astro";
+import { getCollection } from "astro:content";
+
+const allChapters = await getCollection("genki-2");
+const chaptersLinks = allChapters.map((chapter) => ({
+  slug: chapter.slug,
+  title: chapter.data.title,
+}));
+---
+
+<Layout title="Genki 2">
+  <ChapterList
+    title="Genki 2"
+    subTitle="All Chapters"
+    chapters={chaptersLinks}
+    baseUrl="/genki-2"
+  />
+</Layout>

@@ -1,0 +1,27 @@
+---
+import Layout from "@/layouts/Layout.astro";
+import genki1 from "@/assets/genki-1-3rd-edition.jpg";
+import genki2 from "@/assets/genki-2-3rd-edition.jpg";
+import Card from "@/components/Card.astro";
+---
+
+<Layout title="Genki">
+  <main class="grow">
+    <div class="max-w-2xl mx-auto">
+      <h1 class="text-4xl text-center font-bold mb-8">Genki</h1>
+      <div class="grid grid-cols-2 gap-8">
+        <Card image={genki1} title="Genki 1 - 3rd Edition" href="/genki-1" />
+        <Card image={genki2} title="Genki 2 - 3rd Edition" href="/genki-2" />
+      </div>
+    </div>
+  </main>
+  <footer class="p-2 mt-3 text-center">
+    <span class="text-gray-400"
+      >Created by <a
+        class="hover:text-[#F3DFA2]"
+        href="https://www.github.com/danielfr9"
+        target="_blank">@danielfr9</a
+      ></span
+    >
+  </footer>
+</Layout>

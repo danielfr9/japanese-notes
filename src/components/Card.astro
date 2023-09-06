@@ -1,0 +1,18 @@
+---
+interface Props {
+  title: string;
+  image: ImageMetadata;
+  href: string;
+}
+
+const { image, title, href } = Astro.props;
+---
+
+<a href={href}>
+  <div
+    class="border-2 border-[#065A60] bg-[#212F45] hover:bg-[#1B3A4B] cursor-pointer rounded-lg p-6 flex flex-col items-center justify-center space-y-6"
+  >
+    <img src={image.src} alt={title} class="h-60" />
+    <span class="text-xl font-bold">{title}</span>
+  </div>
+</a>
