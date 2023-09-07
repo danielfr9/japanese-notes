@@ -3,16 +3,36 @@ interface Props {
   title: string;
   image: ImageMetadata;
   href: string;
+  edition: number;
+  releasedYear: string;
 }
 
-const { image, title, href } = Astro.props;
+const { image, title, href, releasedYear, edition } = Astro.props;
 ---
 
 <a href={href}>
   <div
-    class="border-2 border-[#065A60] bg-[#212F45] hover:bg-[#1B3A4B] cursor-pointer rounded-lg p-6 flex flex-col items-center justify-center space-y-6"
+    class="border-2 border-[#065A60] bg-[#212F45] hover:bg-[#1B3A4B] cursor-pointer rounded-lg p-4 flex space-x-6"
   >
-    <img src={image.src} alt={title} class="h-60" />
-    <span class="text-xl font-bold">{title}</span>
+    <div class="h-28 md:h-32">
+      <img src={image.src} alt={title} class="h-full object-contain shrink-0" />
+    </div>
+    <div>
+      <p class="text-md md:text-lg line-clamp-2 leading-6 font-semibold mb-2">
+        {title}
+      </p>
+      <p class="text-sm text-gray-300">
+        {edition}{
+          edition === 1
+            ? "st"
+            : edition === 2
+            ? "nd"
+            : edition === 3
+            ? "rd"
+            : "th"
+        } Edition
+      </p>
+      <p class="text-sm text-gray-300">{releasedYear}</p>
+    </div>
   </div>
 </a>
