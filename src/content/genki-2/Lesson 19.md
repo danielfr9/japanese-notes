@@ -1,6 +1,6 @@
 ---
 title: Lesson 19
-video: https://www.youtube.com/embed/j-bn8NmqwEE?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk
+video: https://www.youtube-nocookie.com/embed/j-bn8NmqwEE?si=o8QXx7lAnUKGXxmu
 ---
 
 # Honorific verbs

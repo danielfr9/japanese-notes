@@ -1,6 +1,6 @@
 ---
 title: Lesson 14
-video: https://www.youtube.com/embed/RjF-k28kMkw?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk
+video: https://www.youtube-nocookie.com/embed/RjF-k28kMkw?si=RkQYa6igGGrFpkFI
 ---
 
 # ほしい

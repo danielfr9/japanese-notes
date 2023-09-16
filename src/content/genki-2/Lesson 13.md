@@ -1,6 +1,6 @@
 ---
 title: Lesson 13
-video: https://www.youtube.com/embed/CMs_NXbOwbw?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk
+video: https://www.youtube-nocookie.com/embed/CMs_NXbOwbw?si=cLMCHG1aJcygK6Al
 ---
 
 # Potential Verbs

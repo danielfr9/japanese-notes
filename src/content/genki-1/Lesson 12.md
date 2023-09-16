@@ -1,6 +1,6 @@
 ---
 title: Lesson 12
-video: https://www.youtube.com/embed/tCua2K28oPE?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2
+video: https://www.youtube-nocookie.com/embed/tCua2K28oPE?si=wikBzlgkLQPAL8tI
 ---
 
 # ~んです

@@ -1,6 +1,6 @@
 ---
 title: Lesson 20
-video: https://www.youtube.com/embed/pYZASUOlcok?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk
+video: https://www.youtube-nocookie.com/embed/pYZASUOlcok?si=VU44jCY8B-iubX9V
 ---
 
 # Extra-modest expressions

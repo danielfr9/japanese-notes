@@ -1,6 +1,6 @@
 ---
 title: Lesson 22
-video: https://www.youtube.com/embed/5Ipp7hXfZDs?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk
+video: https://www.youtube-nocookie.com/embed/5Ipp7hXfZDs?si=mCGLq8Dm_lRG_1fq
 ---
 
 # Causative Sentences

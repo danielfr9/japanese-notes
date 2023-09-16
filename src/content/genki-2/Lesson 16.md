@@ -1,6 +1,6 @@
 ---
 title: Lesson 16
-video: https://www.youtube.com/embed/YiMChZ5egFc?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk
+video: https://www.youtube-nocookie.com/embed/YiMChZ5egFc?si=wBolx9DLMQftf1tm
 ---
 
 # ~てあげる/てくれる/てもらう

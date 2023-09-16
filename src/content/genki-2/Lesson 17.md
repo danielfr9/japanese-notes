@@ -1,6 +1,6 @@
 ---
 title: Lesson 17
-video: https://www.youtube.com/embed/CJA9SRsf1w4?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk
+video: https://www.youtube-nocookie.com/embed/CJA9SRsf1w4?si=S7LgmMX58wflX2NK
 ---
 
 # ~そうです

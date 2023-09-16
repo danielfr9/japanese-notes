@@ -1,6 +1,6 @@
 ---
 title: Lesson 23
-video: https://www.youtube.com/embed/U6FSf5_XWdc?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk
+video: https://www.youtube-nocookie.com/embed/U6FSf5_XWdc?si=4xgmgtEY9RxkiuiY
 ---
 
 # Causative-passive Sentences

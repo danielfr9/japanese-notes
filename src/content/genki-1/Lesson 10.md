@@ -1,6 +1,6 @@
 ---
 title: Lesson 10
-video: https://www.youtube.com/embed/qaFX3x4G6mU?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2
+video: https://www.youtube-nocookie.com/embed/qaFX3x4G6mU?si=C5dNE_oA4cBWg_IZ
 ---
 
 # Comparison between Two Items

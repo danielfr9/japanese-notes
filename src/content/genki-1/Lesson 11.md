@@ -1,6 +1,6 @@
 ---
 title: Lesson 11
-video: https://www.youtube.com/embed/1r-SZJ79MZo?list=PLA_RcUI8km1NMhiEebcbqdlcHv_2ngbO2
+video: https://www.youtube-nocookie.com/embed/1r-SZJ79MZo?si=q2EeRBiVAUp5OdqC
 ---
 
 # ~たい

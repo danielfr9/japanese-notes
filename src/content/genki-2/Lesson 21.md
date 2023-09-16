@@ -1,6 +1,6 @@
 ---
 title: Lesson 21
-video: https://www.youtube.com/embed/eh5G78_wFAM?list=PLA_RcUI8km1P8bJzp3_TMMv1jhL3BcKQk
+video: https://www.youtube-nocookie.com/embed/eh5G78_wFAM?si=U8k8ED_TlBZUk9Zs
 ---
 
 # Passive Sentences
