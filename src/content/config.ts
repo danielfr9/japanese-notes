@@ -14,7 +14,6 @@ const genki_3rd_Edition_Collection = defineCollection({
 
 // 3. Export a single `collections` object to register your collection(s)
 export const collections = {
-  genki: genki_3rd_Edition_Collection,
   "genki-1": genki_3rd_Edition_Collection,
   "genki-2": genki_3rd_Edition_Collection,
 };
