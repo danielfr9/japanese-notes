@@ -19,7 +19,7 @@ const { subTitle, title, chapters, baseUrl } = Astro.props;
       {
         chapters.map((chapter) => (
           <a href={`${baseUrl}/${chapter.slug}`}>
-            <li class="p-2 font-semibold hover:bg-[#1B3A4B] my-2 border-b border-white">
+            <li class="p-2 font-semibold hover:bg-[#1B3A4B] my-2 border-b border-white" transition:name={chapter.title}>
               {chapter.title}
             </li>
           </a>
