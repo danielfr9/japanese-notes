@@ -23,7 +23,7 @@ const { title, video, headings } = Astro.props;
         {
           headings.map((heading) => (
             <a href={`#${heading.slug}`}>
-              <li>
+              <li style={`margin-left: ${heading.depth - 1}rem;`}>
                 <span class="hover:underline">{heading.text}</span>
               </li>
             </a>
