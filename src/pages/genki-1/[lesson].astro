@@ -21,7 +21,7 @@ const { entry } = Astro.props;
 const { Content, headings } = await entry.render();
 ---
 
-<Layout title={entry.data.title}>
+<Layout title={`Genki 1 - ${entry.data.title}`}>
   <LessonLayout
     title={entry.data.title}
     video={entry.data.video}
