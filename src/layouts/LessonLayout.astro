@@ -19,15 +19,15 @@ const { title, video, headings } = Astro.props;
     </h1>
 
     <div class="p-8 shadow rounded-lg border-[#065A60] bg-[#212F45] mb-8">
-      <h2 class="text-2xl font-semibold mb-4">Topics</h2>
+      <h2 class="text-xl md:text-2xl font-semibold mb-4">Topics</h2>
       <ul class="list-inside list-disc">
         {
           headings.map((heading) => (
-            <a href={`#${heading.slug}`}>
-              <li style={`margin-left: ${heading.depth - 1}rem;`}>
-                <span class="hover:underline">{heading.text}</span>
+            <li style={`margin-left: ${heading.depth - 1}rem;`}>
+              <a href={`#${heading.slug}`}>
+                <span class="hover:underline text-sm md:text-base">{heading.text}</span>
+                </a>
               </li>
-            </a>
           ))
         }
       </ul>
@@ -47,7 +47,7 @@ const { title, video, headings } = Astro.props;
       >
     </div>
     <article
-      class="text-gray-200 mx-auto prose prose-th:text-gray-200 prose-th:font-bold prose-h1:text-2xl prose-h1:md:text-3xl prose-h1:text-[#F3DFA2] prose-h1:pt-12 prose-h1:mb-4
+      class="text-gray-200 mx-auto prose prose-sm md:prose-base prose-th:text-gray-200 prose-th:font-bold prose-h1:text-2xl prose-h1:md:text-3xl prose-h1:text-[#F3DFA2] prose-h1:pt-12 prose-h1:mb-4
           prose-h2:text-gray-200 prose-blockquote:text-gray-200 prose-strong:text-yellow-500
           prose-blockquote:bg-[#989FCE]/30
         max-w-none"
