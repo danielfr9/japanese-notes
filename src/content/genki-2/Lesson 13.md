@@ -1,6 +1,17 @@
 ---
-title: Lesson 13
+title: Lesson 13 - アルバイト探し Looking for a Part-time Job
 video: https://www.youtube-nocookie.com/embed/CMs_NXbOwbw?si=cLMCHG1aJcygK6Al
+book: "Genki 2: An Integrated Course in Elementary Japanese (Textbook)"
+lessonNumber: 13
+sections:
+  - Potential Verbs
+  - ~し
+  - ~そうです
+  - ~つもりだ
+  - ~てみる
+  - ~なら
+  - 一週間に三回
+  - Expression Notes
 ---
 
 # Potential Verbs

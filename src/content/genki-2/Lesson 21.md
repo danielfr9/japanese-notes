@@ -1,6 +1,15 @@
 ---
-title: Lesson 21
+title: Lesson 21 - どろぼう Burglar
 video: https://www.youtube-nocookie.com/embed/eh5G78_wFAM?si=U8k8ED_TlBZUk9Zs
+book: "Genki 2: An Integrated Course in Elementary Japanese (Textbook)"
+lessonNumber: 21
+sections:
+  - Passive Sentences
+  - ~てある
+  - ~間に
+  - Adjective + する
+  - ~てほしい
+  - Expression Notes
 ---
 
 # Passive Sentences

@@ -1,6 +1,16 @@
 ---
-title: Lesson 22
+title: Lesson 22 - 日本の教育 Education in Japan
 video: https://www.youtube-nocookie.com/embed/5Ipp7hXfZDs?si=mCGLq8Dm_lRG_1fq
+book: "Genki 2: An Integrated Course in Elementary Japanese (Textbook)"
+lessonNumber: 22
+sections:
+  - Causative Sentences
+  - Causative + てあげる/てくれる/てもらう
+  - Verb Stem + なさい
+  - ~ば
+  - のに
+  - ~のように/~のような
+  - Expression Notes
 ---
 
 # Causative Sentences

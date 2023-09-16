@@ -1,6 +1,16 @@
 ---
-title: Lesson 18
+title: Lesson 18 - ジョンさんのアルバイト John's Part-time Job
 video: https://www.youtube-nocookie.com/embed/qTt39_q4wFE?si=5COpZlL8uuU4VMjW
+book: "Genki 2: An Integrated Course in Elementary Japanese (Textbook)"
+lessonNumber: 18
+sections:
+  - Transitivity Pairs
+  - Paired Intransitive Verbs + ている
+  - ～てしまう
+  - ~と
+  - ~ながら
+  - ~ばよかったです
+  - Expression Notes
 ---
 
 # Transitivity Pairs

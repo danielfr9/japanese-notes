@@ -1,6 +1,16 @@
 ---
-title: Lesson 12
+title: Lesson 12 - 病気 Feeling Ill
 video: https://www.youtube-nocookie.com/embed/tCua2K28oPE?si=wikBzlgkLQPAL8tI
+book: "Genki 1: An Integrated Course in Elementary Japanese Third Edition (Textbook)"
+lessonNumber: 12
+sections:
+  - ~んです
+  - ~すぎる
+  - ~ほうがいいです
+  - ~ので
+  - ~なければいけません/～なきゃいけません
+  - ~でしょうか
+  - Expression Notes
 ---
 
 # ~んです

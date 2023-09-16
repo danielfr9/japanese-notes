@@ -1,6 +1,14 @@
 ---
-title: Lesson 11
+title: Lesson 11 - 休みのあと After the Vacation
 video: https://www.youtube-nocookie.com/embed/1r-SZJ79MZo?si=q2EeRBiVAUp5OdqC
+book: "Genki 1: An Integrated Course in Elementary Japanese Third Edition (Textbook)"
+lessonNumber: 11
+sections:
+  - ~たい
+  - ~たり ~たりする
+  - ~ことがある
+  - Noun A や Noun B
+  - Expression Notes
 ---
 
 # ~たい

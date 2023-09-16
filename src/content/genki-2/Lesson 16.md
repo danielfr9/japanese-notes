@@ -1,6 +1,15 @@
 ---
-title: Lesson 16
+title: Lesson 16 - 忘れ物 Lost and Found
 video: https://www.youtube-nocookie.com/embed/YiMChZ5egFc?si=wBolx9DLMQftf1tm
+book: "Genki 2: An Integrated Course in Elementary Japanese (Textbook)"
+lessonNumber: 16
+sections:
+  - ~てあげる/てくれる/てもらう
+  - ~ていただけませんか
+  - ~といい
+  - ~時
+  - ~てすみませんでした
+  - Expression Notes
 ---
 
 # ~てあげる/てくれる/てもらう

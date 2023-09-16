@@ -1,6 +1,15 @@
 ---
-title: Lesson 23
+title: Lesson 23 - 別れ Good-bye
 video: https://www.youtube-nocookie.com/embed/U6FSf5_XWdc?si=4xgmgtEY9RxkiuiY
+book: "Genki 2: An Integrated Course in Elementary Japanese (Textbook)"
+lessonNumber: 23
+sections:
+  - Causative-passive Sentences
+  - ~ても
+  - ~ことにする
+  - ~ ことにしている
+  - ~まで
+  - ~方
 ---
 
 # Causative-passive Sentences

@@ -1,6 +1,17 @@
 ---
-title: Lesson 10
+title: Lesson 10 - 冬休みの予定 Winter Vacation Plans
 video: https://www.youtube-nocookie.com/embed/qaFX3x4G6mU?si=C5dNE_oA4cBWg_IZ
+book: "Genki 1: An Integrated Course in Elementary Japanese Third Edition (Textbook)"
+lessonNumber: 10
+sections:
+  - Comparison between Two Items
+  - Comparison among Three or More Items
+  - Adjective/Noun + の
+  - ~つもりだ
+  - Adjective + なる
+  - どこかに/どこにも
+  - で
+  - Expression Notes
 ---
 
 # Comparison between Two Items

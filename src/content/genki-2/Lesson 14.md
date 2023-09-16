@@ -1,6 +1,14 @@
 ---
-title: Lesson 14
+title: Lesson 14 - バレンタインデー Valentine's Day
 video: https://www.youtube-nocookie.com/embed/RjF-k28kMkw?si=RkQYa6igGGrFpkFI
+book: "Genki 2: An Integrated Course in Elementary Japanese (Textbook)"
+lessonNumber: 14
+sections:
+  - ほしい
+  - ~かもしれません
+  - あげる/くれる/もらう
+  - ~たらどうですか
+  - Expression Notes
 ---
 
 # ほしい

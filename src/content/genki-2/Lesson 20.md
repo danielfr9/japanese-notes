@@ -1,6 +1,16 @@
 ---
-title: Lesson 20
+title: Lesson 20 - メアリーさんの買い物 Mary Goes Shopping
 video: https://www.youtube-nocookie.com/embed/pYZASUOlcok?si=VU44jCY8B-iubX9V
+book: "Genki 2: An Integrated Course in Elementary Japanese (Textbook)"
+lessonNumber: 20
+sections:
+  - Extra-modest expressions
+  - Humble Expressions
+  - ~ないで
+  - Questions within Larger Sentences
+  - Name という Item
+  - ~やすい/~にくい
+  - Expression Notes
 ---
 
 # Extra-modest expressions

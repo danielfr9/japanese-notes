@@ -1,6 +1,14 @@
 ---
-title: Lesson 15
+title: Lesson 15 - 長野旅行 A Trip to Nagano
 video: https://www.youtube-nocookie.com/embed/QFfBRGaHMok?si=PKEO0E5cJiXMB15x
+book: "Genki 2: An Integrated Course in Elementary Japanese (Textbook)"
+lessonNumber: 15
+sections:
+  - Volitional Form
+  - Volitional Form + と思っています
+  - ~ておく
+  - Using Sentences to Qualify Nouns
+  - Expression Notes
 ---
 
 # Volitional Form

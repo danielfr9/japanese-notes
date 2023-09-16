@@ -1,6 +1,15 @@
 ---
-title: Lesson 19
+title: Lesson 19 - 出迎え Meeting the Boss
 video: https://www.youtube-nocookie.com/embed/j-bn8NmqwEE?si=o8QXx7lAnUKGXxmu
+book: "Genki 2: An Integrated Course in Elementary Japanese (Textbook)"
+lessonNumber: 19
+sections:
+  - Honorific verbs
+  - Giving Respectful Advice
+  - ~てくれてありがとう
+  - ~てよかったです
+  - ~はずです
+  - Expression Notes
 ---
 
 # Honorific verbs

@@ -1,6 +1,16 @@
 ---
-title: Lesson 17
+title: Lesson 17 - ぐちとうわさ話 Grumble and Gossip
 video: https://www.youtube-nocookie.com/embed/CJA9SRsf1w4?si=S7LgmMX58wflX2NK
+book: "Genki 2: An Integrated Course in Elementary Japanese (Textbook)"
+lessonNumber: 17
+sections:
+  - ~そうです
+  - ~って
+  - ~たら
+  - ~なくてもいいです
+  - ~みたいです
+  - ~前に/~てから
+  - Expression Notes
 ---
 
 # ~そうです
